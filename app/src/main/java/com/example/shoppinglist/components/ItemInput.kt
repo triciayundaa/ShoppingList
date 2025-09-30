@@ -1,4 +1,4 @@
-package com.example.shoppinglist.component
+package com.example.shoppinglist.components
 
 import androidx.compose.foundation.layout.*
 import androidx.compose.foundation.shape.RoundedCornerShape
